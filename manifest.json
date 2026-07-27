@@ -1,6 +1,7 @@
 {
-  "mcVersion": "1.21.1",
-  "fabricLoaderVersion": "0.19.3",
-  "packVersion": "2",
-  "packUrl": "https://github.com/mayveen40-droid/nexara-modpack/releases/download/v1/modpack.zip"
+  "packVersion": 2,
+  "gameVersion": "1.21.1",
+  "loaderVersion": "0.19.3",
+  "downloadUrl": "https://github.com/mayveen40-droid/nexara-modpack/releases/download/Modpack-v1/modpack.zip",
+  "zipSha256": "9ab4de1f3f14ba34c41fb5a2c42f06d5860dc67d4d6bc5a2010dd3f321acad06"
 }
